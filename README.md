@@ -70,7 +70,6 @@ The following is a simple example using Night Mode API. It works in QQBrowser fo
 ```
 
 ##Online demo
-A popular website([demo url](https://v.html5.qq.com/?ch=001201#p=index&g=1&ch=001201&_t=1480313859053)) also demostrates the Night Mode API. It works only in QQBrowser for Android.
-
+A popular website([demo url](https://v.html5.qq.com/?ch=001201#p=index&g=1&ch=001201&_t=1480313859053)) also demostrates the Night Mode API. It works only in QQBrowser for Android. The grayer one is in the browser-side night mode. The colorful one is in the page night mode.
 ![Image of browser-night-mode](http://res.imtt.qq.com/qqbrowser_x5/joshliu/night_mode_api/browser-night.png)
 ![Image of web-night-mode](http://res.imtt.qq.com/qqbrowser_x5/joshliu/night_mode_api/web-night.png)
