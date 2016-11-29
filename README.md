@@ -6,6 +6,7 @@ Given the fact that mobile has became the most popular platform in accessing the
 ##Use cases
 + Web page takes control of changes of style when user triggers the day/night mode in browser menu.
 + Web page itself switches the day/night mode and performs changes of style.
+
 ##Current Solutions And Problems
 This section overviews some top browsers' solutions for night mode browsing.
 
