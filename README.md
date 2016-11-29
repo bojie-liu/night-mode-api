@@ -2,7 +2,7 @@
 Proposal for a Night Mode API
 
 ## Background
-Given the fact that mobile has became the most popular platform in accessing the Internet, browsing under poor light condition is the common theme in our daily life. However, CSS of most websites were designed for well lit environment, like dark text with white background. The contrast leads to uncomfortable experience for user to surf the Internet under such circumstance. This document is to propose a solution which provides a way in which web page can be notified of light conditions from browser and change its CSS accordingly, called Night Mode API.
+As mobile devices become more and more popular for people to access the Internet, browsing under poor light condition happens more frequently in our daily life. However, CSS of most websites were designed for well lit environment, like dark text with white background. The contrast leads to uncomfortable experience for user to surf the Internet under such circumstance. This document is to propose a solution which provides a way in which web page can be notified of light conditions from browser and change its CSS accordingly, called Night Mode API.
 ##Use cases
 + Web page takes control of changes of style when user triggers the day/night mode in browser menu.
 + Web page itself switches the day/night mode and performs changes of style.
